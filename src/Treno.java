@@ -15,6 +15,7 @@
 public class Treno {
 	/**
 	 * nome = nome del treno
+	 * versione 2
 	 */
 	private String nome, destinazione, partenza;
 	private Vagone[] vagoni;
